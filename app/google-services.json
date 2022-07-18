@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "536162118533-i44p69ekvjchroglgf4jmaigne97be6j.apps.googleusercontent.com",
+          "client_id": "536162118533-2iqia8lolqjuhtvasft3itqickusn7sf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.footzone.footzone",
-            "certificate_hash": "cf4ab629d728b05dce3bb5445e56f3134fb90dcb"
+            "certificate_hash": "a90303f4bfdef4266044b0d81a65c8de2aa7488d"
           }
         },
         {
